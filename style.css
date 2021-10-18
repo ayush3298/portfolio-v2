@@ -603,3 +603,16 @@ a, a:active, a:hover {
     color: #20a0ff;
     text-decoration: underline;
 }
+
+    .testimonials-card{
+
+        text-overflow: ellipsis;
+        overflow: hidden;
+         transition: height 2s;
+    }
+    .testimonials-card:hover{
+       overflow: visible;
+        height: 250px;
+
+
+    }

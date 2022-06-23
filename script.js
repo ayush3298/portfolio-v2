@@ -28,7 +28,7 @@ testimonial_divs.forEach(function (item, index) {
 
         "                            <div class=\"testimonials-card-title\">\n" +
         `                               <img class="country-flag" ` +
-        `                   src="assets/flags/${testimonial[3]}.png" ` +
-        `                                       alt="${testimonial[3]}.png"> | ${testimonial[0]} | <i style='color: #ffb33e' class="fas fa-star"></i> <span style='color: #ffb33e'>${testimonial[2]}<span` +
+        `                   src="assets/flags/${testimonial[3]}.webp" ` +
+        `                                       alt="${testimonial[3]}.webp"> | ${testimonial[0]} | <i style='color: #ffb33e' class="fas fa-star"></i> <span style='color: #ffb33e'>${testimonial[2]}<span` +
         "                            </div>"
 });

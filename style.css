@@ -472,7 +472,7 @@ a, a:active, a:hover {
     left: 0;
     right: 0;
     z-index: -1;
-    background: url(assets/jpl.jpg) 50%;
+    background: url(assets/jpl.webp) 50%;
     filter: brightness(15%);
     background-size: cover;
 }
@@ -548,14 +548,14 @@ a, a:active, a:hover {
 }
 
 .project-card-betrics {
-    background-image: url(assets/projects/Betrics.jpeg);
+    background-image: url(assets/projects/Betrics.webp);
 }
 .project-card-devire {
-    background-image: url(assets/projects/deviare-africa.jpg);
+    background-image: url(assets/projects/deviare-africa.webp);
 }
 
 .project-card-zpe {
-    background-image: url(assets/projects/zpe.jpg);
+    background-image: url(assets/projects/zpe.webp);
 }
 
 .project-card-content {
